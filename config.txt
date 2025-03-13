@@ -1,0 +1,6 @@
+[config]
+op1 = HashDoc1.txt
+op2 = Hashdoc2.docx
+op3 = HashDoc3.pptx
+op4 = HashDoc4.txt
+op5 = HashDoc5.xlsx
